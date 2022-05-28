@@ -1,5 +1,5 @@
-# Seeds of Logic
+# Seed of Logic
 
 ### Copyright
 
-Copyright (C) 2022 Seeds of Logic.
+Copyright (C) 2019 SeedsOfLogic.com.

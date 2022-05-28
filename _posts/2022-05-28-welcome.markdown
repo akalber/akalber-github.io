@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Seeds!"
+categories: [ April ]
+image: assets/images/demo1.jpg
+---
+
+The first of many hellos to every visitor!
