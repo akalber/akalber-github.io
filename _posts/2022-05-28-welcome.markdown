@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Seeds!"
-categories: [ April ]
+author: april
+categories: [ Seeds ]
 image: assets/images/demo1.jpg
 ---
 
