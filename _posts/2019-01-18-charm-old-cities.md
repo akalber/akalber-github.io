@@ -3,7 +3,7 @@ layout: post
 title:  "Could we reinvent the charm of old cities"
 author: sal
 categories: [ tutorial ]
-image: assets/images/home.jpg
+image: assets/images/4.jpg
 tags: [summer]
 ---
 
