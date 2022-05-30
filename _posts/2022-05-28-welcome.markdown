@@ -4,6 +4,7 @@ title:  "Welcome to Seeds!"
 author: april
 categories: [ Seeds ]
 image: assets/images/demo1.jpg
+tags: [featured,sticky,summer]
 ---
 
 The first of many hellos to every visitor!
