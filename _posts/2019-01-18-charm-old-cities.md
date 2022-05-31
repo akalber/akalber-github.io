@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Could we reinvent the charm of old cities"
-author: sal
+author: april
 categories: [ tutorial ]
 image: assets/images/4.jpg
 tags: [summer]

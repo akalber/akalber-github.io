@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: sal
+author: april
 categories: [ tutorial ]
 image: assets/images/3.jpg
-tags: [featured]
 ---
 There are lots of powerful things you can do with the Markdown editor
 
