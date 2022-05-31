@@ -5,7 +5,7 @@ logo: 'assets/images/demo1.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
-email: 'aprilkalber@yahoo.com'
+email: 'april@yahoo.com'
 mailchimp-list: ''
 
 include: ["_pages"]
