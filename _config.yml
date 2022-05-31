@@ -1,6 +1,6 @@
 # Site
 name: 'Seeds of Logic'
-description: 'Seeds of Logic Description.'
+description: 'Seeds of Logic'
 logo: 'assets/images/demo1.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: april
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
